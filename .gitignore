@@ -1,3 +1,6 @@
+#assets
+dist/assets/
+
 # Logs
 logs
 *.log

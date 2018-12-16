@@ -1,4 +1,11 @@
 @charset "UTF-8";
+
+/* AKOS CODE */
+.video-react-big-play-button {
+	opacity: 0 !important;
+}
+/* General code  */
+
 .video-react .video-react-big-play-button:before, .video-react .video-react-control:before {
   position: absolute;
   top: 0;
